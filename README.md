@@ -15,7 +15,7 @@ The CAMBOT Level 0 raw data and the much larger Level 1B geolocated and orthorec
 https://nsidc.org/data/IOCAM0/
 https://nsidc.org/data/iocam1b
 
-The methods for estimating water depths of supraglacial lakes on the Greenland Ice Sheet are described in a publication by Studinger et al., 2022 (https://doi.org/10.5194/tc-16-3649-2022).
+The methods for estimating water depths of supraglacial lakes on the Greenland Ice Sheet are described in a publication by Studinger et al., 2022 (https://doi.org/10.5194/tc-16-3649-2022). The code release for this publication is archived on Zenodo at: https://zenodo.org/records/6341230
 
 See also: 
 

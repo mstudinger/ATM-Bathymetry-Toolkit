@@ -9,11 +9,13 @@ This collection of MATLAB® functions is for working with ATM laser altimetry da
 
 The data products are freely available at the National Snow and Ice Data Center (NSIDC) at https://nsidc.org/data/icebridge and can also be downloaded from the NASA Earthdata portal at https://earthdata.nasa.gov/
 
-The ILATMW1B waveform data is available at NSIDC: https://nsidc.org/data/ILNSAW1B/versions/1 (narrow swath) https://nsidc.org/data/ILATMW1B/versions/1 (wide swath)
+The ILATMW1B waveform data is available at NSIDC:  
+https://nsidc.org/data/ILNSAW1B/versions/1 (narrow swath)  
+https://nsidc.org/data/ILATMW1B/versions/1 (wide swath)
 
-The CAMBOT Level 0 raw data and the much larger Level 1B geolocated and orthorectified CAMBOT data product are available here:
-https://nsidc.org/data/IOCAM0/
-https://nsidc.org/data/iocam1b
+The CAMBOT Level 0 raw data and the much larger Level 1B geolocated and orthorectified CAMBOT data product are available here:  
+https://nsidc.org/data/IOCAM0/  
+https://nsidc.org/data/iocam1b  
 
 The methods for estimating water depths of supraglacial lakes on the Greenland Ice Sheet are described in a publication by Studinger et al., 2022 (https://doi.org/10.5194/tc-16-3649-2022). The code release for this publication is archived on Zenodo at: https://zenodo.org/records/6341230
 

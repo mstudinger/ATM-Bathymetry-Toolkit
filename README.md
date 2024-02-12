@@ -21,7 +21,7 @@ The methods for estimating water depths of supraglacial lakes on the Greenland I
 
 __See also__: 
 
-* User guide for NASA's Airborne Topographic Mapper HDF5 Waveform Data: Products: https://doi.org/10.5281/zenodo.7246097
+* User guide for NASA's Airborne Topographic Mapper HDF5 waveform data products: https://doi.org/10.5281/zenodo.7246097
 * Collection of MATLAB® functions for working with ATM (Airborne Topographic Mapper, laser altimetry data products in HDF5 waveform format: https://github.com/mstudinger/ATM-waveform-tools
 * NASA's Airborne Topographic Mapper (ATM) ground calibration data for waveform data products: https://doi.org/10.5281/zenodo.7225936
 * An __archived version of the code__ that was used in the publication by Studinger et al., 2022 (https://doi.org/10.5194/tc-16-3649-2022) is available on Zenodo: https://zenodo.org/records/6341230

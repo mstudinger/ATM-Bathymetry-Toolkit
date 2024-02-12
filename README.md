@@ -1,4 +1,4 @@
-# atm_bathymetry_toolkit
+# ATM Bathymetry Toolkit
 This repository contains MATLAB® functions for deriving supraglacial lake bathymetry from ATM laser altimetry data products
 
 # Airborne Topographic Mapper (ATM) Bathymetry Toolkit
